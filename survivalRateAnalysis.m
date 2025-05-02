@@ -1,4 +1,5 @@
 %survivalRateAnalysis.m
+%main script
 tic;
 
 %setup
