@@ -1,5 +1,5 @@
 #radius_velocity_rate_data.py
-#using output from survivalRateAnalysis.m
+#output from survivalRateAnalysis.m
 #indices match for R_tubes, v_longs, surivival_rates
 
 #radius 0.1 to 0.52 m, same for all masses
